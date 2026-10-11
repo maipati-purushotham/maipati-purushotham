@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Purushotham 👋
 
-<!--
-**maipati-purushotham/maipati-purushotham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer | React.js | Next.js | TypeScript
 
-Here are some ideas to get you started:
+I'm a web developer who builds full-stack applications using React.js, Next.js, Node.js, Express.js, and MongoDB. I focus on reusable components, clean code, and reliable REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Next.js, JavaScript, TypeScript, HTML, CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Mongoose
+- **Tools:** Git, GitHub, Postman
+- **Additional:** Playwright basics, AWS EC2, AI API integration
+
+## 🚀 Featured Projects
+
+- **MERN CRUD Application** — Full-stack CRUD operations.
+- **URL Shortener** — A web application for shortening URLs.
+- **Library Project** — A React-based library application.
+
+## 🌱 Currently Learning
+
+- Advanced Next.js
+- Playwright automation testing
+- Application performance and code quality
+- AI integration in web applications
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/maipatipurushothotham-696410252/
+- **Portfolio:** https://purnashp.github.io/purushotham-portfolio/
+- **GitHub:** https://github.com/maipati-purushotham/
+- **Email:** maipatipurushotham011@gmail.com
